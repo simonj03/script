@@ -3,7 +3,7 @@
 ###Date: 1/30/2023
 - Description: Auto Traceroute to China Network
 - Intro:  https://www.oldking.net/1359.html
-- Copyright (C) 2017-2022 Oldking 
+- Copyright (C) 2017-2023 JEM SIMON 
 jemima.simon19@gmail.com
  
 ```bash
