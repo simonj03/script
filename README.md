@@ -1,8 +1,10 @@
 # Some Linux scripts
 ## SuperTrace.sh
+###Date: 1/30/2023
 - Description: Auto Traceroute to China Network
 - Intro:  https://www.oldking.net/1359.html
-- Copyright (C) 2017-2022 Oldking <oooldking@gmail.com>
+- Copyright (C) 2017-2022 Oldking 
+jemima.simon19@gmail.com
  
 ```bash
 Usage:
@@ -15,7 +17,8 @@ Usage:
 ## SuperSpeed.sh
 - Description: Test your server's network with Speedtest to China
 - Intro:  https://www.oldking.net/305.html
-- Copyright (C) 2017-2022 Oldking <oooldking@gmail.com>
+- Copyright (C) 2017-2022 Oldking 
+jemima.simon19@gmail.com
  
 ```bash
 Usage:
